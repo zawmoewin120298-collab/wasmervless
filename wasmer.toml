@@ -1,0 +1,12 @@
+[package]
+name = "zawmoewin120298-collab/wasmer-vless"
+version = "0.1.0"
+description = "Vless on Wasmer"
+
+[[app]]
+name = "wasmer-vless"
+image = "."
+
+[[app.env]]
+PORT = "3000"
+
